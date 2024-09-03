@@ -1,0 +1,7 @@
+Discuss the database application you want to implement with your partners. Write a requirement document for your database application project. I attached a requirement document sample. Your project needs to have similar or more workload as the sample document.
+
+I suggest each group have meetings at least weekly to discuss group projects.
+
+Every group member needs to be active and responsible. I will grade each member individually if someone does not cooperate with others.
+
+The Proposal needs to be at least 10 pages.
